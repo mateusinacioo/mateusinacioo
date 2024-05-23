@@ -1,7 +1,7 @@
 ### Olá, eu sou Mateus Inácio! 👋
 
-- 🔭 Atualmente trabalho como analista de suporte
-- 🌱 Estudando Ruby
+- 🔭 Atualmente trabalho como Analista de Implantação e Treinamnetos
+- 🌱 Estudando Ruby on Rails
 
 <div align="center">
   <a href="https://github.com/mateusinacioo">
@@ -14,6 +14,7 @@
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="Mateus-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Mateus-Rails" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" >
   <img align="center" alt="Mateus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
