@@ -1,6 +1,6 @@
 ### Olá, eu sou Mateus Inácio! 👋
 
-- 🔭 Atualmente trabalho como Analista de Implantação e Treinamnetos
+- 🔭 Atualmente trabalho como Analista de Implantação e Treinamentos
 - 🌱 Estudando Ruby on Rails
 
 <div align="center">
